@@ -1,4 +1,4 @@
-## Olá, eu sou o David Emmanoel, estudante do curso de Engenharia de Software na Universidade de Pernambuco(UPE), campus Garanhuns.
+## Olá, eu sou o David Emmanoel.
 
  <div>
   <a href="https://github.com/DavidRochaCode">
